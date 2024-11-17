@@ -31,4 +31,4 @@ A simple Java-based command-line personal finance tracker with features to add, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Aums04/pft-java.git
+   git clone https://github.com/Aums04/pft-java-.git
