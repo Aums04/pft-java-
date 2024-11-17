@@ -1,4 +1,4 @@
-# pft-java
+# Personal Finance Tracker
 A simple Java-based command-line personal finance tracker with features to add, view, and save transactions.
 - Add income and expense transactions.
 - View all transactions.
